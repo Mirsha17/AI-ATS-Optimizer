@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.navbar-wrapper{
+    display:flex;
+    justify-content:center;
+    }
+.navbar{
+    width:90%;
+    max-width:1300px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:18px 50px;
+    background: transparent;
+    backdrop-filter: blur(18px);
+    border-radius: 0px;
+    box-shadow: none; 
+}
+
+.logo{
+    font-size:38px;
+    font-weight:700;
+    font-family:"Dancing Script", cursive;
+    color:#38bdf8;
+    cursor:pointer;
+    letter-spacing:1px;
+}
+.nav-links{
+    display:flex;
+    align-items:center;
+    gap:25px;
+}
+.nav-links button{
+    background:none;
+    border:none;
+    color:white;
+    font-size:18px;
+    font-weight:600;
+    cursor:pointer;
+    transition:.3s;
+}
+.nav-links button:hover{
+    color:#38bdf8;
+}
+.login-btn{
+    background:linear-gradient(135deg,#0a0464,#0a0464) !important;
+    padding:12px 25px;
+    border-radius:30px;
+    color:white !important;
+}
