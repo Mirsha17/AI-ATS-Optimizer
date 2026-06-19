@@ -25,19 +25,19 @@ An AI-powered ATS Resume Optimizer built using Spring Boot and React.js that hel
 
 Frontend
 
-React.js
-HTML5
-CSS3
-JavaScript
-Bootstrap
+React.js,
+HTML5,
+CSS3,
+JavaScript,
+Bootstrap,
 
 
 Backend
 
-Spring Boot
-Spring MVC
-Spring Data JPA
-REST API
+Spring Boot,
+Spring MVC,
+Spring Data JPA,
+REST API,
 
 Database
 
@@ -45,7 +45,7 @@ MySQL
 
 Tools
 
-Spring Tool Suite (STS)
-VS Code
-Git & GitHub
+Spring Tool Suite (STS),
+VS Code,
+Git & GitHub,
 Maven
